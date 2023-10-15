@@ -1,0 +1,13 @@
+body {
+  margin: 0px;
+}
+
+.prime-video-container {
+  background-color: black;
+  background-size: cover;
+}
+.movies-container {
+  width: 100%;
+  margin: auto;
+  margin-bottom: 32px;
+}
